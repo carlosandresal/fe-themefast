@@ -1,0 +1,112 @@
+html {
+  padding: 0;
+  margin: 0; }
+
+body {
+  margin: 0 auto;
+  width: 960px; }
+
+header {
+  background: #2c3e50;
+  height: 106px; }
+
+figure {
+  margin: 20px 0 0 80px; }
+
+nav {
+  float: right;
+  margin: 5px 80px 0 0; }
+  nav ul {
+    margin: 0; }
+    nav ul li {
+      display: inline-block; }
+
+section {
+  display: block;
+  height: auto;
+  padding: 50px 80px;
+  box-sizing: border-box; }
+
+h2 {
+  font-size: 1.8em; }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none; }
+
+.slogan {
+  line-height: 25px;
+  font-size: 1em;
+  color: #fff; }
+
+.second-nav {
+  margin-left: 175px; }
+  .second-nav li {
+    display: inline-block; }
+
+.col, .col-large, .col-small, .col-medium {
+  display: inline-block;
+  vertical-align: top; }
+
+.col-large {
+  width: 69%; }
+
+.col-small {
+  width: 29%; }
+
+.col-medium {
+  width: 49%; }
+
+.btn {
+  display: block;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold; }
+
+.btn-medium {
+  line-height: 45px;
+  height: 45px;
+  width: 97px; }
+
+.btn-large {
+  height: 45px;
+  width: 135px; }
+
+.btn-super {
+  text-align: left;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  height: 70px;
+  width: 412px; }
+  .btn-super .title {
+    display: block;
+    font-size: 1.5em; }
+  .btn-super .subtitle {
+    display: block;
+    font-size: .8em;
+    font-weight: normal; }
+
+.bg-green {
+  background: #1a9cbc; }
+
+.bg-orange {
+  background: #f39c12; }
+
+.bg-blue {
+  background: #2c3e50; }
+
+.text-green {
+  color: #1a9cbc; }
+
+.text-orange {
+  color: #f39c12; }
+
+.text-blue {
+  color: #2c3e50; }
+
+/*# sourceMappingURL=base.css.map */
